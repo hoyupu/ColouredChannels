@@ -1,3 +1,9 @@
+/**
+* @name ColouredChannels
+* @author Rabbite#6969
+* @description A Mini-Theme designed to colour your channel list!
+* @version 1.0
+*/
 @import url("https://hoyupu.github.io/ColouredChannels/main.css")
 /*Gradient starts at colour two due to how Discord handles channel lists.*/
 .theme-dark {
